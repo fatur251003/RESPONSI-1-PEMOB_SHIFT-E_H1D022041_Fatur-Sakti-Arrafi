@@ -33,3 +33,7 @@ memasukkan Email, Password, dan Ulangi Password<br>
 
 <h2>3. Halaman Manajemen Stress</h2><br>
 
+![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/Screenshot%202024-10-18%20112016.png)
+![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/Screenshot%202024-10-18%20111146.png)
+![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/Screenshot%202024-10-18%20124352.png)
+
