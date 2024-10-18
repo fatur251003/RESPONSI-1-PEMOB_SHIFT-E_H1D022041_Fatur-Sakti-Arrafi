@@ -5,7 +5,7 @@
 
 <h3> Responsi 1 Praktikum Pemrograman Mobile (E)</h3>
 
-<h2>Halaman Login</h2>
+<h2>1. Halaman Login</h2>
 
 ![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/Screenshot%202024-10-18%20103249.png)
 
@@ -19,3 +19,14 @@ Pada Halaman ini, pengguna diminta memasukkan Email dan Password untuk login<br>
 ![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/sss3.png)<br>
 <br><b>Tampilan Jika Berhasil Login<br>
 ![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/berhasil.jpg)<br>
+
+<h2>2. Halaman Registrasi</h2><br>
+
+![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/Screenshot%202024-10-18%20111954.png)<br>
+
+<b>Penjelasan:</br>
+Pada Halaman ini, pengguna dapat melakukan daftar akun/registrasi dengan
+memasukkan Email, Password, dan Ulangi Password
+<b>Source Code:<br>
+
+
