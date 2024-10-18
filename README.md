@@ -37,7 +37,11 @@ memasukkan Email, Password, dan Ulangi Password<br>
 ![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/Screenshot%202024-10-18%20111146.png)
 ![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/Screenshot%202024-10-18%20124352.png)
 
-<b>Penjelasan:<br>
+<b>Penjelasan:</b><br>
 Pada Halaman ini, terdapat ucapan Selamat Datang dan terdapat Tombol “Manage
 Stress”, apabila di klik akan mengarahkan anda ke Form “Stress Management”<br>
-<b>Source Code:<br>
+<b>Source Code:</b><br>
+![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/Screenshot%202024-10-18%20134742.png)<br>
+![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/Screenshot%202024-10-18%20134800.png)<br>
+
+
