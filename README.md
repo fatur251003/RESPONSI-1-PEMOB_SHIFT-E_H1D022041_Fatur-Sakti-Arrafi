@@ -26,7 +26,7 @@ Pada Halaman ini, pengguna diminta memasukkan Email dan Password untuk login<br>
 
 <b>Penjelasan:</br>
 Pada Halaman ini, pengguna dapat melakukan daftar akun/registrasi dengan
-memasukkan Email, Password, dan Ulangi Password
+memasukkan Email, Password, dan Ulangi Password<br>
 <b>Source Code:
 
 
