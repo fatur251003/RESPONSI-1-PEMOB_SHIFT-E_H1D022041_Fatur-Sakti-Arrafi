@@ -9,6 +9,6 @@
 
 ![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/Screenshot%202024-10-18%20103249.png)
 
-<b>Penjelasan:</b>
-Pada Halaman ini, pengguna diminta memasukkan Email dan Password
-<b>Source Code
+<b>Penjelasan:</b><br>
+Pada Halaman ini, pengguna diminta memasukkan Email dan Password<br>
+<b>Source Code<br>
