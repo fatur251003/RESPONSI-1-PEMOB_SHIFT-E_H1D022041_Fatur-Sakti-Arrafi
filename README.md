@@ -27,7 +27,7 @@ Pada Halaman ini, pengguna diminta memasukkan Email dan Password untuk login<br>
 <b>Penjelasan:</br>
 Pada Halaman ini, pengguna dapat melakukan daftar akun/registrasi dengan
 memasukkan Email, Password, dan Ulangi Password<br>
-<b>Source Code:
+<b>Source Code:<br>
 ![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/Screenshot%202024-10-18%20133427.png)<br>
 ![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/Screenshot%202024-10-18%20133437.png)<br>
 
