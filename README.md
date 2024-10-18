@@ -15,7 +15,7 @@ Pada Halaman ini, pengguna diminta memasukkan Email dan Password untuk login<br>
 ![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/Screenshot%202024-10-18%20132421.png)<br>
 ![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/Screenshot%202024-10-18%20132436.png)<br>
 
-<br><b>Tampilan Jika Gagal Login
-![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/sss3.png)
-<br><b>Tampilan Jika Berhasil Login
-![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/berhasil.jpg)
+<br><b>Tampilan Jika Gagal Login<br>
+![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/sss3.png)<br>
+<br><b>Tampilan Jika Berhasil Login<br>
+![alt text](https://github.com/fatur251003/RESPONSI-1-PEMOB_SHIFT-E_H1D022041_Fatur-Sakti-Arrafi/blob/main/images/berhasil.jpg)<br>
